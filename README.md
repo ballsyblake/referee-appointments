@@ -8,6 +8,8 @@ payments are worked out from what was worked.
 Built for and used by North Canberra Futsal (2020-2023), then rebuilt in 2026
 into a secure, tested system.
 
+**[Try the demo](https://bnbaldwin.com/referee-app/demo/)** (the real front end with a simulated server and fake data, running in your browser) or read the **[case study](https://bnbaldwin.com/referee-app/)**.
+
 ![Admin schedule: appointing available referees to matches](docs/screenshots/admin-schedule.png)
 
 ## The problem
