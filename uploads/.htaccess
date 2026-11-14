@@ -1,0 +1,3 @@
+# Uploaded files are served only through refereeapp/file.php, which checks
+# the login. Nothing in here is reachable directly or ever run as code.
+Require all denied

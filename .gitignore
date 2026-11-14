@@ -1,0 +1,25 @@
+# Secrets: real credentials live only in config.php, which is never committed
+config.php
+.env
+*.key
+*.pem
+*.pfx
+
+# User-uploaded files
+uploads/*
+!uploads/.gitkeep
+!uploads/avatar.png
+!uploads/.htaccess
+
+# Local mail log and other runtime files
+storage/*
+!storage/.htaccess
+
+# Logs and junk
+php_errorlog
+*.log
+*.crdownload
+.DS_Store
+Thumbs.db
+tests/screenshots/
+dist/
